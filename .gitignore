@@ -1,0 +1,7 @@
+portable/*.png
+*.log
+position.json
+settings.json
+notes.txt
+.vs/
+work/
